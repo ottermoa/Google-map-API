@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gogle Map API learning</title>
     <style>
-        #mapDisplay{
+        #mapDisplay {
             height: 400px; width: 500px;
         }
     </style>
